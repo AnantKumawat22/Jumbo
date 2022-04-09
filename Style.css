@@ -49,6 +49,8 @@
     font-size: 22px;
     letter-spacing: 2px;
     font-weight: 600;
+    text-align: center;
+    padding: 0px 10px;
     margin-top: 30px;
     font-family: "Source Sans Pro", sans-serif;
 }
@@ -103,7 +105,8 @@
         width: 80%;
         height: 90%;
     }
-    .btn{
+    .btn, .message{
         font-size: 20px;
     }
+
 }
